@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "careology",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\lihis\\react-amplified\\amplify\\backend\\api\\careology\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2022-06-23T18:23:14.409Z",
+      "keyDescription": ""
+    }
+  }
+}

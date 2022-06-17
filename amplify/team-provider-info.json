@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-careology-dev-211601-authRole",
+      "UnauthRoleArn": "arn:aws:iam::696053133120:role/amplify-careology-dev-211601-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::696053133120:role/amplify-careology-dev-211601-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-careology-dev-211601-deployment",
+      "UnauthRoleName": "amplify-careology-dev-211601-unauthRole",
+      "StackName": "amplify-careology-dev-211601",
+      "StackId": "arn:aws:cloudformation:us-west-1:696053133120:stack/amplify-careology-dev-211601/62edbaa0-eda0-11ec-9734-06ecf4eccc3b",
+      "AmplifyAppId": "dr8mxx6t1a7jf"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dr8mxx6t1a7jf",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "careology0c67e340": {}
+      }
+    }
+  }
+}
